@@ -3,22 +3,22 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  ".github/workflows/azure-static-web-apps-purple-flower-0ab3d080f.yml": "65676c6b2be13457309a3e0648ace10e",
-".github/dependabot.yml": "f4bc56b2b9a5df3f33033e3103241978",
+  "assets/assets/images/logo.png": "01d617a7ed3ccafbd11c9bda9cfcdc3e",
+"assets/NOTICES": "dfbabaa3f368b0160e75f5352da89eef",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.json": "cbc53aae578e2a642eeb1fb80e583f99",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"index.html": "f854417d33d9bc70f301ae60f521aeda",
+"/": "f854417d33d9bc70f301ae60f521aeda",
+"main.dart.js": "3b27c0ef112e9ca227cbd2928c76433e",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
+".github/dependabot.yml": "f4bc56b2b9a5df3f33033e3103241978",
+".github/workflows/azure-static-web-apps-purple-flower-0ab3d080f.yml": "65676c6b2be13457309a3e0648ace10e",
 "manifest.json": "e7784c763517da7215822f74c4dbcae5",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "dfbabaa3f368b0160e75f5352da89eef",
-"assets/assets/images/logo.png": "01d617a7ed3ccafbd11c9bda9cfcdc3e",
-"assets/AssetManifest.json": "cbc53aae578e2a642eeb1fb80e583f99",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "9ad8d0c54f4ee43ced380447abddceff",
-"/": "9ad8d0c54f4ee43ced380447abddceff",
-"init-firebase.js": "e29eaa523fe6b4331d98fd8d839d9282",
 "version.json": "cb5b14a58815a97739abe55fc9e7462d",
-"main.dart.js": "36a7db2e2c764e5d60dd76c5ec93dc28",
+"init-firebase.js": "e29eaa523fe6b4331d98fd8d839d9282",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
